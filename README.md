@@ -1,5 +1,5 @@
 <h2>Cek Gempa</h2>
-penginstallan sbg berikut:\n
+penginstallan sbg berikut:<br>
 ```
 1. pkg install php
 2. pkg install git
