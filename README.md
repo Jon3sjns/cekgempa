@@ -2,11 +2,11 @@
 penginstallan sbg berikut:<br>
 
 ```
-1. pkg install php <br>
-2. pkg install git <br>
-3. git clone https://github.com/jon3sjns/gempaterakhir.php <br>
-4. cd cekgempa <br>
-5. php terakhirgempa.php <br>
+1. pkg install php 
+2. pkg install git 
+3. git clone https://github.com/jon3sjns/gempaterakhir.php 
+4. cd cekgempa 
+5. php terakhirgempa.php 
 ```
 tools sudah siap.<br>
 <br>
